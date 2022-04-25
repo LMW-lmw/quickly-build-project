@@ -1,6 +1,6 @@
 {
   "name": "coderlmw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -9,9 +9,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "lmw",
+    "coderlmw"
+  ],
+  "author": "lmw",
+  "license": "MIT",
+  "homepage": "https://github.com/LMW-lmw/quickly-build-project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LMW-lmw/quickly-build-project"
+  },
   "dependencies": {
     "chalk": "^4.1.0",
     "commander": "^6.1.0",
